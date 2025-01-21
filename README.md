@@ -9,6 +9,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=csharp, unity" />
+    <img src="https://skillicons.dev/icons?i=blender,cs,discord,github,unity,visualstudio&theme=dark" />
   </a>
 </p>
