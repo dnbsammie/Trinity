@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="./readme/Trinity.png"></img>
+<img src="./readme/trinity.png"></img>
 <h1 align="center">Trinity</h1>
 <h3 align="center">A FPS Game 🔫</h3>
 
